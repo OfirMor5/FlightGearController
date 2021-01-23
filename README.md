@@ -218,7 +218,7 @@ What things you need to install the software and how to install them.
 ---
 
 ## Built With
-* [Eclipse](https://www.eclipse.org/downloads/packages/release/kepler/sr1/eclipse-ide-java-developers) - Java IDE
+* [Intellij](https://www.jetbrains.com/idea/download/#section=windows) - Java IDE
 * [Scene Builder](https://gluonhq.com/products/scene-builder/)  - Scene Builder 8.5.0
 
 ---
